@@ -168,7 +168,7 @@ ul.navbar-nav {
 	height: auto;
 	text-align: center;
 	color: white;
-	background: url(/img/lapt.jfif) no-repeat top center scroll;
+	background: url(img/lapt.jfif) no-repeat top center scroll;
 	background-size: cover;
 	-o-background-size: cover;
 }
